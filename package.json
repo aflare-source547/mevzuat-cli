@@ -1,5 +1,5 @@
 {
-  "name": "@saidsrc/mevzuat",
+  "name": "mevzuat",
   "version": "0.1.0",
   "description": "CLI tool for Turkish legislation (mevzuat.gov.tr). Designed for AI agents and programmatic use.",
   "type": "module",
