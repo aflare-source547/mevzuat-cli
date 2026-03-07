@@ -1,0 +1,48 @@
+{
+  "name": "@saidsrc/mevzuat",
+  "version": "0.1.0",
+  "description": "CLI tool for Turkish legislation (mevzuat.gov.tr). Designed for AI agents and programmatic use.",
+  "type": "module",
+  "bin": {
+    "mevzuat": "./bin/mevzuat.js"
+  },
+  "files": [
+    "bin/",
+    "dist/",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "turkish-law",
+    "legislation",
+    "mevzuat",
+    "kanun",
+    "yonetmelik",
+    "cli",
+    "ai-agent"
+  ],
+  "author": "Said Surucu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saidsurucu/mevzuat-cli.git"
+  },
+  "homepage": "https://github.com/saidsurucu/mevzuat-cli",
+  "dependencies": {
+    "commander": "^13.0.0",
+    "turndown": "^7.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0",
+    "@types/turndown": "^5.0.5",
+    "tsx": "^4.19.0"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
