@@ -1,4 +1,4 @@
-# mevzuat-cli
+# mevzuat
 
 CLI tool for Turkish legislation (mevzuat.gov.tr). Designed for AI agents and programmatic use.
 
@@ -7,7 +7,7 @@ All commands output JSON to stdout. No authentication required.
 ## Install
 
 ```bash
-npm install -g @saidsrc/mevzuat
+npm install -g mevzuat
 ```
 
 ## Commands
